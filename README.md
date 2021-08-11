@@ -1,2 +1,2 @@
 # Cyan
-Cyan aims to be an easy, fast and secure password generator.
+An easy, fast and secure password generator.
