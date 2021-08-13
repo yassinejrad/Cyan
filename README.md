@@ -1,2 +1,2 @@
 # Cyan
-A swift password manager.
+A minimal, fast and secure password manager.
