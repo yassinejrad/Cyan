@@ -1,4 +1,5 @@
-![github logo](https://user-images.githubusercontent.com/29543098/129890874-6c8cf2cf-57a5-4758-b7b7-60c17bf22149.png)
+
+![github logo](https://user-images.githubusercontent.com/29543098/138255731-21c065ec-d25b-44e8-a995-53874bf3ef81.png)
 
 # Cyan
-A fast & minimal password manager.
+A fast & minimal password manager and generator.
